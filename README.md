@@ -47,24 +47,24 @@ it contains the following features.
 - changing Size column to float data type.
 - changing Reviews column data type to int datatype.
 ## (4) Remove duplicate rows if any.
-##(5) finding out WHICH CATEGORY OF APP HAS HIGHEST AND LOWEST RATING.
+## (5) finding out WHICH CATEGORY OF APP HAS HIGHEST AND LOWEST RATING.
 - making sns.barplot to show the graph.
-##(6) Finding out  WHICH CATEGORY HAS MAXIMUM AND MINIMUM APPS.
+## (6) Finding out  WHICH CATEGORY HAS MAXIMUM AND MINIMUM APPS.
 - using sns.countplot to make the bar graph.
-##(7) Finding PERSENTAGE OF PAID APPS AND FREE APPS.
+## (7) Finding PERSENTAGE OF PAID APPS AND FREE APPS.
 - Using sns.countplot to make the graph.
-##(8) Finding WHAT CATEGORY OF SIZED APP HAS HIGHEST INSTALLS.
+## (8) Finding WHAT CATEGORY OF SIZED APP HAS HIGHEST INSTALLS.
 - Making a new column naming it size_category.
 - putiing two values in it 'Below 50' and 'Above 50'.
 -Using sns.countplot to make the bar graph.
-##(9) Finding HIGHEST NO OF APP WORKS IN WHICH ANDROID VERSION.
+## (9) Finding HIGHEST NO OF APP WORKS IN WHICH ANDROID VERSION.
 - Using plt.bar to amke the garph.
 ## (10) Finding WHICH CATEGORY OF APPS HAS HIGHEST INSTALLS.
 -  Using sns.barplot to amke the graph.
-##(11) Finding WHICH PAID APP HAS HIGHEST REVENUE.
+## (11) Finding WHICH PAID APP HAS HIGHEST REVENUE.
 - Making a new column and naming it 'Revenue' by multiplying 'price' and 'installs'
 - sorting revenue and slicing top 4 
 - Using sns.barplot to make the graph. 
-##(12) Making the coorelation heat map.
+## (12) Making the coorelation heat map.
 - Using sns.heatmap to amp the heat map.
 
